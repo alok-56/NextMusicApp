@@ -1,0 +1,61 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Lessons",
+      "slug" : "guitar-fundamentals",
+      "description": "Learn the basics of guitar, including chords, scales, and simple songs.",
+      "price": "$99",
+      "instructor": "John Doe",
+      "isFeatured":true,
+      "image":"/courses/guitar.jpg"
+      
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug" : "piano-fundamentals",
+      "description": "Start your piano journey with this comprehensive beginner's course.",
+      "price": "$120",
+      "isFeatured":false,
+      "instructor": "Jane Smith",
+      "image":"/courses/piano.jpg"
+      
+    },
+    {
+      "id": 3,
+      "title": "Advanced Music Theory",
+      "slug" : "Advance-music-fundamentals",
+      "description": "Deep dive into advanced music theory concepts like harmony, modulation, and composition.",
+      "price": "$199",
+      "isFeatured":true,
+      "instructor": "Robert Johnson",
+      "image":"/courses/music.jpg"
+      
+    },
+    {
+      "id": 4,
+      "title": "Guitar for Intermediate Players",
+      "slug" : "Guitar-internantional-fundamentals",
+      "description": "Take your guitar skills to the next level with this intermediate course.",
+      "price": "$140",
+      "isFeatured":true,
+      "instructor": "Emily White",
+      "image":"/courses/adguitar.jpg"
+      
+    },
+    {
+      "id": 5,
+      "title": "Vocal Training Masterclass",
+      "slug" : "Vocal-fundamentals",
+      "description": "Enhance your vocal abilities with professional training techniques.",
+      "price": "$140",
+      "isFeatured":false,
+      "instructor": "Alex Brown",
+      "image":"/courses/vocal.jpg"
+      
+    }
+    
+  ]
+}
+  
