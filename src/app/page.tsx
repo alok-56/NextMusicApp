@@ -5,7 +5,7 @@ import TestimonialCards from "@/components/TestimonialCards";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
 import { Instructor } from "@/components/Instructor";
 import Footer from "@/components/Footer";
-import Metero from "@/components/Metero";
+
 
 export default function Home() {
   return (
@@ -17,7 +17,7 @@ export default function Home() {
       <UpcomingWebinars />
       {/* <Instructor /> */}
       <Footer />
-      <Metero />
+      
     </main>
   );
 }
